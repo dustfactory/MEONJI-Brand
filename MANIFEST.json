@@ -1,0 +1,746 @@
+{
+  "version": "1.0",
+  "date": "2026-10-23",
+  "source": {
+    "symbol": {
+      "master_sha256": "6038f108e91d8e3f804b7cc984df57cea28439a35fc66e0a4ef5fa97e072cd89",
+      "master_viewBox": "0 0 1254 1254",
+      "artwork_bounds": [
+        236,
+        371,
+        1020,
+        958
+      ],
+      "export_viewBox": [
+        177.0,
+        213.5,
+        902,
+        902
+      ],
+      "path_count": 1,
+      "original_fill": "#100f0e"
+    },
+    "wordmark": {
+      "master_sha256": "bb7c0249b86eb4add0bac50b8a3c05d40550b944cbaf7b170d23edc300a63724",
+      "master_viewBox": "0 0 1254 1254",
+      "artwork_bounds": [
+        90,
+        485,
+        1192,
+        781
+      ],
+      "export_viewBox": [
+        60,
+        455,
+        1162,
+        356
+      ],
+      "path_count": 8,
+      "original_fill": "#100f0e"
+    }
+  },
+  "files": [
+    {
+      "path": "BRAND_GUIDELINES.md",
+      "bytes": 6011,
+      "sha256": "6d16e3fa2d29bcb5a5edca665d016219f824863b94adb07c3ee7dcdc440f978f",
+      "format": "MD"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1166,
+      "sha256": "23a2bc9f879929b08106c51245c81c5af873a0bb3b1ee7ad5d21dc57869bd31e",
+      "format": "MD"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 12204,
+      "sha256": "57fa77ea01afc134f6d483a6485a035bd812b786b962220ee569b7f2fabc5a13",
+      "format": "JSON"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 5566,
+      "sha256": "0b793e82a3a879c8681cbcfae56e1fc3463d55ea7c6978855e58b8739b8889b6",
+      "format": "MD"
+    },
+    {
+      "path": "master/meonji-symbol.svg",
+      "bytes": 11436,
+      "sha256": "6038f108e91d8e3f804b7cc984df57cea28439a35fc66e0a4ef5fa97e072cd89",
+      "format": "SVG",
+      "viewBox": "0 0 1254 1254",
+      "paths": 1
+    },
+    {
+      "path": "master/meonji-wordmark.svg",
+      "bytes": 14832,
+      "sha256": "bb7c0249b86eb4add0bac50b8a3c05d40550b944cbaf7b170d23edc300a63724",
+      "format": "SVG",
+      "viewBox": "0 0 1254 1254",
+      "paths": 8
+    },
+    {
+      "path": "pdf/logo-vector.pdf",
+      "bytes": 12406,
+      "sha256": "860a23c9f351745d852f1fa06e265dfd1f4970ad3134c8ffd29664d26bb8a91d",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-symbol-black.pdf",
+      "bytes": 5839,
+      "sha256": "68ed451eeb701c3ffb280045cbb608dd034c96876bc8d993c4bfe63a8ccaa3ff",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-symbol-original.pdf",
+      "bytes": 5853,
+      "sha256": "0009300e2681cf7d039e23754d857cf9140c4e09aa9840328abd5d3179391964",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-symbol-white.pdf",
+      "bytes": 5840,
+      "sha256": "5336c9490a08e358dafb8379dad38d106682b2392965018885ae4f8c353f149b",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-wordmark-black.pdf",
+      "bytes": 7385,
+      "sha256": "2529fb3a0fa4dfa93df71080e86b6e591ed8663a8f7c86ea82762fef3dfeb280",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-wordmark-original.pdf",
+      "bytes": 7401,
+      "sha256": "9874611978a1e79bd26bcc9c5f39b7de18ebd9befbd626640663f94272f06692",
+      "format": "PDF"
+    },
+    {
+      "path": "pdf/meonji-wordmark-white.pdf",
+      "bytes": 7386,
+      "sha256": "696c550e7c556676b995148fe5da85d8b12a0bffc3d8a8747186425776b902ce",
+      "format": "PDF"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-1024.png",
+      "bytes": 24689,
+      "sha256": "44a7ed117cc570d5e77786d9c42e3f70c123063147378994d5757cf4d72bec02",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-128.png",
+      "bytes": 2074,
+      "sha256": "f7bc7b2ba658c6f6f9d689c9f440ab7195dc94e4ce3228319d35779e8ba5262e",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-16.png",
+      "bytes": 295,
+      "sha256": "a17f36042072fd88801313c4726d744d2158196355ee1a3c48b2f0466fa25ca7",
+      "format": "PNG",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-2048.png",
+      "bytes": 59124,
+      "sha256": "283aad9d2e339d48b6d9d0d412bb58b84573484e133521f937f4f365b28a7055",
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-256.png",
+      "bytes": 4550,
+      "sha256": "b7693b3ec40af1e29ebf1dcfd9a173ef0ed5ad9a4fc7970572554d1b267def8d",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-32.png",
+      "bytes": 558,
+      "sha256": "9614187e73d15a7ecb53ef7609e0470b4d55536395e7ca1802e858e6ba17147f",
+      "format": "PNG",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-512.png",
+      "bytes": 10683,
+      "sha256": "c7088b8916e3b4d915c0d4a4a957328724a84928c808b564f8b1a309dd7b3238",
+      "format": "PNG",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-black-64.png",
+      "bytes": 990,
+      "sha256": "aa2da63c0a10dcfcda5895f6c4017635f449fd174394aed99022e916ccd16917",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-1024.png",
+      "bytes": 33576,
+      "sha256": "945b2474871ef7656ca9db1f1b2762222d1ef121fc90ca1224ae330b19931c70",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-128.png",
+      "bytes": 3292,
+      "sha256": "facdb92e59a1866d8dc84fdee20ea723af730eeb784aaa5746d8760b9004bb38",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-16.png",
+      "bytes": 418,
+      "sha256": "653af4b551d49577661b8d21b062e6da400217648aac850e397c03ee2bbe3e43",
+      "format": "PNG",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-2048.png",
+      "bytes": 75665,
+      "sha256": "aab25d8171b2dc6771fa08d996a838bd0e531aa2bcb2074e9a9dfa3824f8d255",
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-256.png",
+      "bytes": 6824,
+      "sha256": "19400c261296557829867f52d7b5bc46f72c27d007c98dc4bc872e4c758ae95c",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-32.png",
+      "bytes": 825,
+      "sha256": "e1751fa8f86a2b09688c5532e28242310a44d55b14e199fd6e3744087ccdf72b",
+      "format": "PNG",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-512.png",
+      "bytes": 15048,
+      "sha256": "2daeead829e895e6773c74c3f39e688618819821c5347f18ad1c7bdd441e18bb",
+      "format": "PNG",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-original-64.png",
+      "bytes": 1558,
+      "sha256": "90382621555c6ac6e634fb1e748867fc76b34fe9b6b78658c76a2f77cdfef2f4",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-1024.png",
+      "bytes": 27567,
+      "sha256": "8861f76a29ff9ba006b73dc206c33aba4078074ffabec2617df831b714cd87a1",
+      "format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-128.png",
+      "bytes": 2311,
+      "sha256": "36cde0b3eae57efd4a64a0d34c6df9889b75dea6e797a1727bb48f7c4c5bb353",
+      "format": "PNG",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-16.png",
+      "bytes": 295,
+      "sha256": "c41ba7fc797bae4ddee16a8516dfb84e0733baab82387ae46601694930cf5438",
+      "format": "PNG",
+      "width": 16,
+      "height": 16,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-2048.png",
+      "bytes": 64096,
+      "sha256": "496ea285d8c2d64d1fa56d1a983a0a69432ff2eed38a32aa5a0b386b0709f6ec",
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-256.png",
+      "bytes": 5308,
+      "sha256": "bca9ec9744d539e72d32b9819f933abbf3f963e268d071bfcff6c9cca6905c4c",
+      "format": "PNG",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-32.png",
+      "bytes": 582,
+      "sha256": "3b5bb779d0a3a46fb1d6a748b171248d5316614ce8a7b29c1cf284c38ecc3d96",
+      "format": "PNG",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-512.png",
+      "bytes": 12085,
+      "sha256": "da8f4b8391b0e8aec219f83ea5fbe12de866989cffd09733f0730e80645452ac",
+      "format": "PNG",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/symbol/meonji-symbol-white-64.png",
+      "bytes": 1101,
+      "sha256": "113830cb8d18ab43690978b6ad69727ab3aa66b0c626b4f45277eea3af62ddf9",
+      "format": "PNG",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-1024.png",
+      "bytes": 19991,
+      "sha256": "b69a90688adc65851c1c3972bb4ead15b02f6668ca9f539e1b4b716e1f8fba06",
+      "format": "PNG",
+      "width": 1024,
+      "height": 314,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-128.png",
+      "bytes": 1969,
+      "sha256": "f247e02082f1aaeb8ba44fcfd37923687f5d1e81c32fd24550bc264565f8ddc6",
+      "format": "PNG",
+      "width": 128,
+      "height": 39,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-16.png",
+      "bytes": 197,
+      "sha256": "ee68f00a64a511662dd44edd50a4a7dab9cd94af2ddfd12b1ff3cd7b3a521845",
+      "format": "PNG",
+      "width": 16,
+      "height": 5,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-2048.png",
+      "bytes": 45996,
+      "sha256": "ba0556e36067ad511cf96e503e21d33edad9b88659abbf84c7b7ad04a0fc1873",
+      "format": "PNG",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-256.png",
+      "bytes": 4080,
+      "sha256": "8ac82bb29bf0d5f651b701eb23aa2a634174b21ff25bc5b0fe444b1289088c14",
+      "format": "PNG",
+      "width": 256,
+      "height": 78,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-32.png",
+      "bytes": 431,
+      "sha256": "2ff8f876ad9eba88fcc1915fba34ba9165799d1a83a4f35427cd2a479a513cbe",
+      "format": "PNG",
+      "width": 32,
+      "height": 10,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-512.png",
+      "bytes": 8817,
+      "sha256": "5fe930146c0afe942a6c341e8e6d34a97c8cebbdb269fdf626ef7be967a7ae47",
+      "format": "PNG",
+      "width": 512,
+      "height": 157,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-black-64.png",
+      "bytes": 915,
+      "sha256": "02d4d8a2e6327c3da8eb7c9cd0b4f1d08f4b234248bbf08d81250bd211fb7e1d",
+      "format": "PNG",
+      "width": 64,
+      "height": 20,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-1024.png",
+      "bytes": 29416,
+      "sha256": "6c51e84d4b44f91976ec150f74ffa56dd17c30d81367ac8f960b62c6cd1c3347",
+      "format": "PNG",
+      "width": 1024,
+      "height": 314,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-128.png",
+      "bytes": 3193,
+      "sha256": "a614da6d2a0c8b8ca1545e429d63b5273854c2442259b2389644df329bc6cea7",
+      "format": "PNG",
+      "width": 128,
+      "height": 39,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-16.png",
+      "bytes": 269,
+      "sha256": "a131c6dde7854c61aa5ef4b2b9be66a93f80962b0161b37caa4c06e2e99a540b",
+      "format": "PNG",
+      "width": 16,
+      "height": 5,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-2048.png",
+      "bytes": 64936,
+      "sha256": "f8a38f40861241d554a16b153d9091749d842a4f9a1729aa814208e8a3414532",
+      "format": "PNG",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-256.png",
+      "bytes": 6645,
+      "sha256": "fd257eeb4858cb910ca1432107e3009b7d9f36517c4d0dac761f06429f9c80fc",
+      "format": "PNG",
+      "width": 256,
+      "height": 78,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-32.png",
+      "bytes": 652,
+      "sha256": "6dc8393aa68e09c2658b4f59263c8b8a1310080f5dd0e3c1cba28fd692b1962d",
+      "format": "PNG",
+      "width": 32,
+      "height": 10,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-512.png",
+      "bytes": 13882,
+      "sha256": "ee94617d8cc3d5fb59b7772a9abaf5f6b7b5e738940ada32fa103457b74e23d0",
+      "format": "PNG",
+      "width": 512,
+      "height": 157,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-original-64.png",
+      "bytes": 1468,
+      "sha256": "240e6cf970142434c211cdb5dbbca79563de0d66eefd4c6acb084625a352ca1d",
+      "format": "PNG",
+      "width": 64,
+      "height": 20,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-1024.png",
+      "bytes": 23066,
+      "sha256": "b6da90c15421df4c6b11ed0f9159181442d4cc22b6e5b99369c3453b0d3723c8",
+      "format": "PNG",
+      "width": 1024,
+      "height": 314,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-128.png",
+      "bytes": 2153,
+      "sha256": "487e9b24d63573eb089494292e4e6c4cdb5f77d8ce06884aaba70ec486ea151f",
+      "format": "PNG",
+      "width": 128,
+      "height": 39,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-16.png",
+      "bytes": 221,
+      "sha256": "047517854f9cacb022fddbd6a6c8163a53b738acf29829c3e6630d6f0e73ecd0",
+      "format": "PNG",
+      "width": 16,
+      "height": 5,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-2048.png",
+      "bytes": 51845,
+      "sha256": "4d7d81de33c76306892efb69eeaa31c16283ff718efce53607f2b15cf9a7484e",
+      "format": "PNG",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-256.png",
+      "bytes": 4674,
+      "sha256": "fe353a1f3f758dc23fd43ec8a0ec93e7d7d029a531edd8368782da84579d1078",
+      "format": "PNG",
+      "width": 256,
+      "height": 78,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-32.png",
+      "bytes": 476,
+      "sha256": "3d1f210cc272be0e6488e048dce031946cfe9860a615006924bbeb56c7c979c6",
+      "format": "PNG",
+      "width": 32,
+      "height": 10,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-512.png",
+      "bytes": 10116,
+      "sha256": "117a16e8c7fac91abe506a057e813b272bac323a66b673e3c5a5de097ccfa721",
+      "format": "PNG",
+      "width": 512,
+      "height": 157,
+      "mode": "RGBA"
+    },
+    {
+      "path": "png/wordmark/meonji-wordmark-white-64.png",
+      "bytes": 1048,
+      "sha256": "15662f52a54d28fab43a0576db3260a65fda12b058c7a24f8352ea48de1086c0",
+      "format": "PNG",
+      "width": 64,
+      "height": 20,
+      "mode": "RGBA"
+    },
+    {
+      "path": "preview/browser-check.html",
+      "bytes": 1304,
+      "sha256": "eee74c0efb0b58b5b3f8e449263f373705cc0aa84c7da1ba1bc89fd2a531585d",
+      "format": "HTML"
+    },
+    {
+      "path": "preview/browser-check.png",
+      "bytes": 118903,
+      "sha256": "da23f2c3900179978aa3e520f6ff542a382dc858162fe58a300b95d4a1324209",
+      "format": "PNG",
+      "width": 2880,
+      "height": 1800,
+      "mode": "RGB"
+    },
+    {
+      "path": "preview/dark-background.png",
+      "bytes": 57170,
+      "sha256": "7734a9c7db42b0757ef2bbf3c22aaa11a335a38d30aa45f118cb230cf3160181",
+      "format": "PNG",
+      "width": 1400,
+      "height": 1050,
+      "mode": "RGB"
+    },
+    {
+      "path": "preview/light-background.png",
+      "bytes": 57502,
+      "sha256": "2739e132e2ce7ee91aedfaa8e73899adefaf7244089d07c0feded813d15b7415",
+      "format": "PNG",
+      "width": 1400,
+      "height": 1050,
+      "mode": "RGB"
+    },
+    {
+      "path": "preview/pdf-contact.png",
+      "bytes": 128743,
+      "sha256": "639af0a32356eeabc4ba6e858d9320d37debf73d0ff0065091948b32d203c083",
+      "format": "PNG",
+      "width": 1200,
+      "height": 1200,
+      "mode": "RGB"
+    },
+    {
+      "path": "preview/size-comparison.png",
+      "bytes": 139816,
+      "sha256": "add3b01a7116f15061d56095cda43ec99225d62031a05d438a603db6aa0177a9",
+      "format": "PNG",
+      "width": 1400,
+      "height": 1250,
+      "mode": "RGB"
+    },
+    {
+      "path": "svg/symbol/meonji-symbol-black.svg",
+      "bytes": 11390,
+      "sha256": "3bef382ac125b7604f003e316004c350c511f831e9c03aae243219cc0e72534b",
+      "format": "SVG",
+      "viewBox": "177 213.5 902 902",
+      "paths": 1
+    },
+    {
+      "path": "svg/symbol/meonji-symbol-original.svg",
+      "bytes": 11390,
+      "sha256": "0a23b771f22c9f4364c15fda56d769b7aff28fe7660ff41da80974897dd8d049",
+      "format": "SVG",
+      "viewBox": "177 213.5 902 902",
+      "paths": 1
+    },
+    {
+      "path": "svg/symbol/meonji-symbol-white.svg",
+      "bytes": 11390,
+      "sha256": "53a537b50bb96ead65adbdc112653f71f458db7ceafea0900088c512f74f2863",
+      "format": "SVG",
+      "viewBox": "177 213.5 902 902",
+      "paths": 1
+    },
+    {
+      "path": "svg/wordmark/meonji-wordmark-black.svg",
+      "bytes": 14792,
+      "sha256": "1e76d8b1b65063a007d0041977f3a9b63c68c00e187ce34aabbe147ac7747d5c",
+      "format": "SVG",
+      "viewBox": "60 455 1162 356",
+      "paths": 8
+    },
+    {
+      "path": "svg/wordmark/meonji-wordmark-original.svg",
+      "bytes": 14792,
+      "sha256": "ed6faeb479d2b3b4086e0a80861587f256828da8be2b07f257a7d91a6f8d4dd4",
+      "format": "SVG",
+      "viewBox": "60 455 1162 356",
+      "paths": 8
+    },
+    {
+      "path": "svg/wordmark/meonji-wordmark-white.svg",
+      "bytes": 14792,
+      "sha256": "433c7ed31df55502cac68d7289ffcd83812cac85229d7a98f9f23728de9ba88a",
+      "format": "SVG",
+      "viewBox": "60 455 1162 356",
+      "paths": 8
+    },
+    {
+      "path": "web/apple-touch-icon.png",
+      "bytes": 4709,
+      "sha256": "f0ec0b0ada0af27763342771547fef590fe77aa6fec96167df0ec4d5e20227d8",
+      "format": "PNG",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/favicon.ico",
+      "bytes": 17631,
+      "sha256": "51d6dde02326d72f8e30903f191c92ec336c8007ca600b71fc4fe8ae2d7ee485",
+      "format": "ICO",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/favicon.svg",
+      "bytes": 11390,
+      "sha256": "0a23b771f22c9f4364c15fda56d769b7aff28fe7660ff41da80974897dd8d049",
+      "format": "SVG",
+      "viewBox": "177 213.5 902 902",
+      "paths": 1
+    },
+    {
+      "path": "web/logo.webp",
+      "bytes": 21970,
+      "sha256": "cc0d23011ec0d0f6244318f13c597dd92efe27bc71ea40b7d4f8969a56776127",
+      "format": "WEBP",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-symbol-black.webp",
+      "bytes": 10488,
+      "sha256": "7e791e1ff17b05cc71002f90df25e2a30e68b24ed7fcb6c904d59966e7dbc49c",
+      "format": "WEBP",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-symbol-original.webp",
+      "bytes": 10752,
+      "sha256": "c04db808770f7bdd1fc9bbcddc14612de2825bc18a9b18ffd4c095646535130c",
+      "format": "WEBP",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-symbol-white.webp",
+      "bytes": 10492,
+      "sha256": "a4c56d54543d1d008052f81bd48b953d4b40618be8de8f017f1c163f2683380d",
+      "format": "WEBP",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-wordmark-black.webp",
+      "bytes": 21712,
+      "sha256": "132594c16e20f02735a9760a35c5a20d526524416ae9611d90e6f311289b5ada",
+      "format": "WEBP",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-wordmark-original.webp",
+      "bytes": 21970,
+      "sha256": "cc0d23011ec0d0f6244318f13c597dd92efe27bc71ea40b7d4f8969a56776127",
+      "format": "WEBP",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    },
+    {
+      "path": "web/meonji-wordmark-white.webp",
+      "bytes": 21718,
+      "sha256": "d923d566ad39164aef6000445010cd5a11889adcb75bc27cd492075728afa0cb",
+      "format": "WEBP",
+      "width": 2048,
+      "height": 627,
+      "mode": "RGBA"
+    }
+  ]
+}
