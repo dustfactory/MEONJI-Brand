@@ -16,3 +16,10 @@ SVG·PNG·WebP는 원본 컬러, 검정, 흰색으로 제공합니다. PNG는 16
 Favicon을 로컬에서 확인하려면 이 폴더를 정적 HTTP 서버로 연 후 `preview/browser-check.html`을 방문합니다. 실제 서비스 적용 시 `web/`의 경로에 맞게 `<link rel="icon">`을 설정합니다.
 
 PDF는 벡터를 유지합니다. `logo-vector.pdf`는 심볼과 워드마크의 2페이지 합본입니다. 흰색 버전의 투명 구멍은 배경색을 그대로 보여줍니다.
+
+## 제작 규격 (spec)
+
+- [로고 제작 규격서](spec/CONSTRUCTION_GUIDE.md): 귀 각도, 기준 단위(1u), 비율, 여백, 제안 표준값
+- [작도 이미지: 심볼](spec/construction-symbol.png) · [작도 이미지: 워드마크](spec/construction-wordmark.png)
+- [측정 프로그램](spec/meonji-measure.html): 자·각도기로 직접 재보는 단일 HTML 파일 ([사용법](spec/MEASURE_README.md))
+- 측정 스크립트와 데이터: [spec/tools](spec/tools/)
