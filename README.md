@@ -19,6 +19,7 @@ PDF는 벡터를 유지합니다. `logo-vector.pdf`는 심볼과 워드마크의
 
 ## 제작 규격 (spec)
 
+- [공식 수치 규격 (CONSTRUCTION_SPEC)](spec/CONSTRUCTION_SPEC.md): 1u, 귀 67°/53°/60°, 간격·지름·수염 수치와 SVG 좌표 검증표 · [규격대로 다시 그린 심볼](spec/redraw/meonji-symbol-spec.svg)
 - [로고 제작 규격서](spec/CONSTRUCTION_GUIDE.md): 귀 각도, 기준 단위(1u), 비율, 여백, 제안 표준값
 - [작도 이미지: 심볼](spec/construction-symbol.png) · [작도 이미지: 워드마크](spec/construction-wordmark.png)
 - [측정 프로그램](spec/meonji-measure.html): 자·각도기로 직접 재보는 단일 HTML 파일 ([사용법](spec/MEASURE_README.md))

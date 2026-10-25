@@ -1,5 +1,7 @@
 # MEONJI 로고 구성(Construction) 가이드 v0.1 (초안)
 
+> 📐 **공식 수치 규격은 [CONSTRUCTION_SPEC.md](CONSTRUCTION_SPEC.md)** 에 있음. 이 가이드는 원본 로고의 측정값과 분석을 담고 있음.
+
 - 원본: `meonji-mon/MEONJI-Brand` @ `main`, `master/meonji-symbol.svg`, `master/meonji-wordmark.svg` (viewBox `0 0 1254 1254`)
 - 원본 파일은 수정하지 않았음. 모든 **측정값**은 SVG 패스를 파싱해 계산함(`measure.py`, `ears2.py`, `rest.py`, 결과 `ears.json`, `circles.json`). 단위는 원본 SVG 단위.
 - 도면: `construction-symbol.svg/png`, `construction-wordmark.svg/png`
